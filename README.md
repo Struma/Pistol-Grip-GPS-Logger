@@ -5,8 +5,9 @@ For reasons of copyright I cannot post the source code, however the code is very
 ![alt text](shoreshine_logger.png "shoreshine logger img")
 
 ## Files Present
+
 * There are a few reference images that should reveal the basic construction of the device. 
-* The obj/stl 3D model should make the design apparent. 
+* The stl 3D model files
 * !Pleases accomodate the sizing to your 3d printer!
 
 ![alt text](Turtle_image.jpg "shoreshine logger img")
